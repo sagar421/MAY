@@ -1,1 +1,7 @@
 TEST MAIN
+PHP Dropzone File Upload on Button Click
+In this section, we are going to learn how to upload the file by clicking on the button in the PHP dropzone. We will use submit button to upload one or more files in PHP Dropzone.
+
+When we upload one or more than one file using drag and drop, we usually use dropzone JS, but it will not work for us. Because when we choose a file or image, only then dropzone js will upload an image or file. In our below example, we will describe how to use PHP and Dropzone to upload all images or files on button click. We will use the library of dropzone.js to upload images and build multiple files. We will also use Bootstrap, which will help us to provide a very attractive and nice layout. We do import by using the dropzone.js cdn. We can also use our local to download it. In order to upload files on button click, we have to use some steps, which are described as follows:
+
+Step 1:
